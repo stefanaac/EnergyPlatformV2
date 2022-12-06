@@ -1,0 +1,9 @@
+docker run -e "ACCEPT_EULA=Y" -e "MSSQL_SA_PASSWORD=Elmu123!" `
+   --name "sql1" -p 1401:1433 `
+   -v sql1data:/var/opt/mssql `
+   -d mcr.microsoft.com/mssql/server:2019-latest
+
+
+docker exec -it sql1 /opt/mssql-tools/bin/sqlcmd `
+   -S localhost -U SA -P "Elmu123!" `
+   -Q "ALTER LOGIN SA WITH PASSWORD='Elmu123!'"

@@ -1,0 +1,50 @@
+D:\Facultate\AN-4\SD\Energy Platform\smart-metering-device-simulator\producer\producer\bin\Debug\producer.exe.config
+D:\Facultate\AN-4\SD\Energy Platform\smart-metering-device-simulator\producer\producer\bin\Debug\producer.exe
+D:\Facultate\AN-4\SD\Energy Platform\smart-metering-device-simulator\producer\producer\bin\Debug\producer.pdb
+D:\Facultate\AN-4\SD\Energy Platform\smart-metering-device-simulator\producer\producer\bin\Debug\RabbitMQ.Client.dll
+D:\Facultate\AN-4\SD\Energy Platform\smart-metering-device-simulator\producer\producer\bin\Debug\System.Buffers.dll
+D:\Facultate\AN-4\SD\Energy Platform\smart-metering-device-simulator\producer\producer\bin\Debug\System.Memory.dll
+D:\Facultate\AN-4\SD\Energy Platform\smart-metering-device-simulator\producer\producer\bin\Debug\System.Numerics.Vectors.dll
+D:\Facultate\AN-4\SD\Energy Platform\smart-metering-device-simulator\producer\producer\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\Facultate\AN-4\SD\Energy Platform\smart-metering-device-simulator\producer\producer\bin\Debug\System.Threading.Channels.dll
+D:\Facultate\AN-4\SD\Energy Platform\smart-metering-device-simulator\producer\producer\bin\Debug\System.Threading.Tasks.Extensions.dll
+D:\Facultate\AN-4\SD\Energy Platform\smart-metering-device-simulator\producer\producer\bin\Debug\RabbitMQ.Client.xml
+D:\Facultate\AN-4\SD\Energy Platform\smart-metering-device-simulator\producer\producer\bin\Debug\System.Buffers.xml
+D:\Facultate\AN-4\SD\Energy Platform\smart-metering-device-simulator\producer\producer\bin\Debug\System.Memory.xml
+D:\Facultate\AN-4\SD\Energy Platform\smart-metering-device-simulator\producer\producer\bin\Debug\System.Numerics.Vectors.xml
+D:\Facultate\AN-4\SD\Energy Platform\smart-metering-device-simulator\producer\producer\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\Facultate\AN-4\SD\Energy Platform\smart-metering-device-simulator\producer\producer\bin\Debug\System.Threading.Channels.xml
+D:\Facultate\AN-4\SD\Energy Platform\smart-metering-device-simulator\producer\producer\bin\Debug\System.Threading.Tasks.Extensions.xml
+D:\Facultate\AN-4\SD\Energy Platform\smart-metering-device-simulator\producer\producer\obj\Debug\producer.csproj.AssemblyReference.cache
+D:\Facultate\AN-4\SD\Energy Platform\smart-metering-device-simulator\producer\producer\obj\Debug\producer.csproj.SuggestedBindingRedirects.cache
+D:\Facultate\AN-4\SD\Energy Platform\smart-metering-device-simulator\producer\producer\obj\Debug\producer.csproj.CoreCompileInputs.cache
+D:\Facultate\AN-4\SD\Energy Platform\smart-metering-device-simulator\producer\producer\obj\Debug\producer.csproj.CopyComplete
+D:\Facultate\AN-4\SD\Energy Platform\smart-metering-device-simulator\producer\producer\obj\Debug\producer.exe
+D:\Facultate\AN-4\SD\Energy Platform\smart-metering-device-simulator\producer\producer\obj\Debug\producer.pdb
+D:\Facultate\AN-4\SD\Energy Platform\smart-metering-device-simulator\producer\producer\bin\Debug\Newtonsoft.Json.dll
+D:\Facultate\AN-4\SD\Energy Platform\smart-metering-device-simulator\producer\producer\bin\Debug\Newtonsoft.Json.xml
+D:\Facultate\AN-4\SD\Teme\UTCNSoftwareDesignLab\lab9\SmartMeteringDeviceSimulator\producer\producer\bin\Debug\producer.exe.config
+D:\Facultate\AN-4\SD\Teme\UTCNSoftwareDesignLab\lab9\SmartMeteringDeviceSimulator\producer\producer\bin\Debug\producer.exe
+D:\Facultate\AN-4\SD\Teme\UTCNSoftwareDesignLab\lab9\SmartMeteringDeviceSimulator\producer\producer\bin\Debug\producer.pdb
+D:\Facultate\AN-4\SD\Teme\UTCNSoftwareDesignLab\lab9\SmartMeteringDeviceSimulator\producer\producer\bin\Debug\Newtonsoft.Json.dll
+D:\Facultate\AN-4\SD\Teme\UTCNSoftwareDesignLab\lab9\SmartMeteringDeviceSimulator\producer\producer\bin\Debug\RabbitMQ.Client.dll
+D:\Facultate\AN-4\SD\Teme\UTCNSoftwareDesignLab\lab9\SmartMeteringDeviceSimulator\producer\producer\bin\Debug\System.Buffers.dll
+D:\Facultate\AN-4\SD\Teme\UTCNSoftwareDesignLab\lab9\SmartMeteringDeviceSimulator\producer\producer\bin\Debug\System.Memory.dll
+D:\Facultate\AN-4\SD\Teme\UTCNSoftwareDesignLab\lab9\SmartMeteringDeviceSimulator\producer\producer\bin\Debug\System.Numerics.Vectors.dll
+D:\Facultate\AN-4\SD\Teme\UTCNSoftwareDesignLab\lab9\SmartMeteringDeviceSimulator\producer\producer\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\Facultate\AN-4\SD\Teme\UTCNSoftwareDesignLab\lab9\SmartMeteringDeviceSimulator\producer\producer\bin\Debug\System.Threading.Channels.dll
+D:\Facultate\AN-4\SD\Teme\UTCNSoftwareDesignLab\lab9\SmartMeteringDeviceSimulator\producer\producer\bin\Debug\System.Threading.Tasks.Extensions.dll
+D:\Facultate\AN-4\SD\Teme\UTCNSoftwareDesignLab\lab9\SmartMeteringDeviceSimulator\producer\producer\bin\Debug\Newtonsoft.Json.xml
+D:\Facultate\AN-4\SD\Teme\UTCNSoftwareDesignLab\lab9\SmartMeteringDeviceSimulator\producer\producer\bin\Debug\RabbitMQ.Client.xml
+D:\Facultate\AN-4\SD\Teme\UTCNSoftwareDesignLab\lab9\SmartMeteringDeviceSimulator\producer\producer\bin\Debug\System.Buffers.xml
+D:\Facultate\AN-4\SD\Teme\UTCNSoftwareDesignLab\lab9\SmartMeteringDeviceSimulator\producer\producer\bin\Debug\System.Memory.xml
+D:\Facultate\AN-4\SD\Teme\UTCNSoftwareDesignLab\lab9\SmartMeteringDeviceSimulator\producer\producer\bin\Debug\System.Numerics.Vectors.xml
+D:\Facultate\AN-4\SD\Teme\UTCNSoftwareDesignLab\lab9\SmartMeteringDeviceSimulator\producer\producer\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\Facultate\AN-4\SD\Teme\UTCNSoftwareDesignLab\lab9\SmartMeteringDeviceSimulator\producer\producer\bin\Debug\System.Threading.Channels.xml
+D:\Facultate\AN-4\SD\Teme\UTCNSoftwareDesignLab\lab9\SmartMeteringDeviceSimulator\producer\producer\bin\Debug\System.Threading.Tasks.Extensions.xml
+D:\Facultate\AN-4\SD\Teme\UTCNSoftwareDesignLab\lab9\SmartMeteringDeviceSimulator\producer\producer\obj\Debug\producer.csproj.AssemblyReference.cache
+D:\Facultate\AN-4\SD\Teme\UTCNSoftwareDesignLab\lab9\SmartMeteringDeviceSimulator\producer\producer\obj\Debug\producer.csproj.SuggestedBindingRedirects.cache
+D:\Facultate\AN-4\SD\Teme\UTCNSoftwareDesignLab\lab9\SmartMeteringDeviceSimulator\producer\producer\obj\Debug\producer.csproj.CoreCompileInputs.cache
+D:\Facultate\AN-4\SD\Teme\UTCNSoftwareDesignLab\lab9\SmartMeteringDeviceSimulator\producer\producer\obj\Debug\producer.csproj.CopyComplete
+D:\Facultate\AN-4\SD\Teme\UTCNSoftwareDesignLab\lab9\SmartMeteringDeviceSimulator\producer\producer\obj\Debug\producer.exe
+D:\Facultate\AN-4\SD\Teme\UTCNSoftwareDesignLab\lab9\SmartMeteringDeviceSimulator\producer\producer\obj\Debug\producer.pdb

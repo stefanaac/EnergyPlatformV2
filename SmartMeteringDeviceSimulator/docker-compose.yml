@@ -1,0 +1,14 @@
+version: "3.9"
+services:
+  rabbitmq3:
+    container_name: "rabbitmq"
+    image: rabbitmq:3-management
+    environment:
+    - RABBITMQ_DEFAULT_USER=stefana
+    - RABBITMQ_DEFAULT_PASS=parola
+    ports:
+    # AMQP protocol port
+    - '5672:5672'
+    # HTTP management UI
+    - '15672:15672'
+
